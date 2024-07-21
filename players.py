@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-key = 'RGAPI-fabec8a2-beb2-4f18-902a-b2672af563cf'
+key = 'RIOT API KEY HERE'
 
 player_columns = ['name', 'tag', 'region', 'puuid']
 
