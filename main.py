@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-key = 'RGAPI-b3207b89-c720-4bfa-a580-3b9a7874f76b' # API key
+key = 'RIOT API KEY HERE'
 
 TOP_N_PLAYERS = 150 # Number of players at the top of the ladder to get data from
 NUM_GAMES_LADDER = 50 # Number of games per top player
